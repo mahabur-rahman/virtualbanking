@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/virtualbanking/static/css/main.0e32dbd6.chunk.css",
+    "main.js": "/virtualbanking/static/js/main.754828b3.chunk.js",
+    "main.js.map": "/virtualbanking/static/js/main.754828b3.chunk.js.map",
+    "runtime-main.js": "/virtualbanking/static/js/runtime-main.01465601.js",
+    "runtime-main.js.map": "/virtualbanking/static/js/runtime-main.01465601.js.map",
+    "static/css/2.4be38407.chunk.css": "/virtualbanking/static/css/2.4be38407.chunk.css",
+    "static/js/2.3e55f46c.chunk.js": "/virtualbanking/static/js/2.3e55f46c.chunk.js",
+    "static/js/2.3e55f46c.chunk.js.map": "/virtualbanking/static/js/2.3e55f46c.chunk.js.map",
+    "index.html": "/virtualbanking/index.html",
+    "static/css/2.4be38407.chunk.css.map": "/virtualbanking/static/css/2.4be38407.chunk.css.map",
+    "static/css/main.0e32dbd6.chunk.css.map": "/virtualbanking/static/css/main.0e32dbd6.chunk.css.map",
+    "static/js/2.3e55f46c.chunk.js.LICENSE.txt": "/virtualbanking/static/js/2.3e55f46c.chunk.js.LICENSE.txt",
+    "static/media/about.e4cb0136.png": "/virtualbanking/static/media/about.e4cb0136.png",
+    "static/media/discover.e291cf28.png": "/virtualbanking/static/media/discover.e291cf28.png",
+    "static/media/s1.91f22f34.png": "/virtualbanking/static/media/s1.91f22f34.png",
+    "static/media/s2.56d4d061.png": "/virtualbanking/static/media/s2.56d4d061.png",
+    "static/media/s3.923ccd45.png": "/virtualbanking/static/media/s3.923ccd45.png",
+    "static/media/signUp.23f925bc.png": "/virtualbanking/static/media/signUp.23f925bc.png",
+    "static/media/video.d28831bc.mp4": "/virtualbanking/static/media/video.d28831bc.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.01465601.js",
+    "static/css/2.4be38407.chunk.css",
+    "static/js/2.3e55f46c.chunk.js",
+    "static/css/main.0e32dbd6.chunk.css",
+    "static/js/main.754828b3.chunk.js"
+  ]
+}
